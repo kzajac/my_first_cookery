@@ -1,1 +1,1 @@
-simple exemple of using cookery
+simple example of using cookery
